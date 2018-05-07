@@ -25,3 +25,6 @@ function draw() {
   Harold();
    Harold();
 }
+function windowResized(){
+  resizeCanvas (windowWidth, windowHeight);
+}
