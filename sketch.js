@@ -15,7 +15,7 @@ var Harold = function (){
 
 
 function setup() {
-  createCanvas(1000,1000)
+  createCanvas(windowWidth,windowHeight)
   //frameRate(8);
 }
 
